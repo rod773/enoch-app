@@ -3,7 +3,7 @@ const path = require("path");
 
 const root = path.resolve(__dirname, "..");
 const textsDir =
-  process.env.TEXTS_DIR || path.resolve(root, "..", "the-wave-principle", "texts");
+  process.env.TEXTS_DIR || "D:/Descargas/The Complete Book of Enoch, Standard English Version - Jay Winter/text";
 const outPath = path.join(root, "src", "pages.json");
 
 if (!fs.existsSync(textsDir)) {

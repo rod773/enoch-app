@@ -13,14 +13,14 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "The Wave Principle",
+  title: "The Complete Book of Enoch",
   description:
-    "Lector en voz alta de The Wave Principle de R. N. Elliott (1938), mostrando cada página escaneada del PDF original.",
-  applicationName: "The Wave Principle",
+    "Lector en voz alta de The Complete Book of Enoch de R. N. Elliott (1938), mostrando cada página escaneada del PDF original.",
+  applicationName: "The Complete Book of Enoch",
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
-    title: "The Wave Principle",
+    title: "The Complete Book of Enoch",
   },
   formatDetection: {
     telephone: false,
