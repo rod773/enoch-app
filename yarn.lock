@@ -1842,6 +1842,24 @@ __metadata:
   languageName: node
   linkType: hard
 
+"enoch-app@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "enoch-app@workspace:."
+  dependencies:
+    "@tailwindcss/turbopack": "npm:^4"
+    "@types/node": "npm:^20"
+    "@types/react": "npm:^19"
+    "@types/react-dom": "npm:^19"
+    eslint: "npm:^9"
+    eslint-config-next: "npm:16.4.2"
+    next: "npm:16.4.2"
+    react: "npm:19.3.0"
+    react-dom: "npm:19.3.0"
+    tailwindcss: "npm:^4"
+    typescript: "npm:^5"
+  languageName: unknown
+  linkType: soft
+
 "es-abstract-get@npm:^1.0.0":
   version: 1.0.0
   resolution: "es-abstract-get@npm:1.0.0"
@@ -4164,24 +4182,6 @@ __metadata:
   checksum: 10c0/47992e861053f861154e92fb4a98ac4ab47b6463717e60792dd1e8c755da0c4964cd8bb68c308a9066d6da89000b6310457b4d5d985c30de4ccc29066068cc17
   languageName: node
   linkType: hard
-
-"the-wave-app@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "the-wave-app@workspace:."
-  dependencies:
-    "@tailwindcss/turbopack": "npm:^4"
-    "@types/node": "npm:^20"
-    "@types/react": "npm:^19"
-    "@types/react-dom": "npm:^19"
-    eslint: "npm:^9"
-    eslint-config-next: "npm:16.4.2"
-    next: "npm:16.4.2"
-    react: "npm:19.3.0"
-    react-dom: "npm:19.3.0"
-    tailwindcss: "npm:^4"
-    typescript: "npm:^5"
-  languageName: unknown
-  linkType: soft
 
 "tinyglobby@npm:^0.2.13, tinyglobby@npm:^0.2.15":
   version: 0.2.17
